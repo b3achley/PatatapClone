@@ -1,4 +1,4 @@
 # PatatapClone
 ---
-permalink: /circles.html
+permalink: /index.html
 ---
